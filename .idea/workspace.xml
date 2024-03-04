@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch03">
-      <change afterPath="$PROJECT_DIR$/ch04.ipynb" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch04">
+      <change afterPath="$PROJECT_DIR$/ch05.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709516841659</updated>
-      <workItem from="1709516843538" duration="9689000" />
+      <workItem from="1709516843538" duration="16679000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -115,17 +115,37 @@
       <option name="project" value="LOCAL" />
       <updated>1709532180970</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ch04">
+      <option name="closed" value="true" />
+      <created>1709535254888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709535254888</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="add ch02" />
     <MESSAGE value="add ch03" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch03" />
+    <MESSAGE value="add ch04" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -139,6 +159,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/introduce_python$main.coverage" NAME="main Coverage Results" MODIFIED="1709516874549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$main.coverage" NAME="main Coverage Results" MODIFIED="1709539713183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
