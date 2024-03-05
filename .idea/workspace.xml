@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch09">
-      <change afterPath="$PROJECT_DIR$/ch10.ipynb" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch10">
+      <change afterPath="$PROJECT_DIR$/ch11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fast.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -89,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709516841659</updated>
       <workItem from="1709516843538" duration="18100000" />
-      <workItem from="1709545792909" duration="26813000" />
+      <workItem from="1709545792909" duration="30545000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709623719813</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add ch10">
+      <option name="closed" value="true" />
+      <created>1709629846023</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709629846023</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +200,8 @@
     <MESSAGE value="add ch07" />
     <MESSAGE value="add ch08" />
     <MESSAGE value="add ch09" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch09" />
+    <MESSAGE value="add ch10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
