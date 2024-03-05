@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch10">
-      <change afterPath="$PROJECT_DIR$/ch11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fast.py" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch11">
+      <change afterPath="$PROJECT_DIR$/ch12.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +15,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -91,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709516841659</updated>
       <workItem from="1709516843538" duration="18100000" />
-      <workItem from="1709545792909" duration="30545000" />
+      <workItem from="1709545792909" duration="31858000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -173,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709629846023</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add ch11">
+      <option name="closed" value="true" />
+      <created>1709633586446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709633586446</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +213,8 @@
     <MESSAGE value="add ch08" />
     <MESSAGE value="add ch09" />
     <MESSAGE value="add ch10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch10" />
+    <MESSAGE value="add ch11" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
