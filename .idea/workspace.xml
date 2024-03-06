@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch14 and related files">
-      <change afterPath="$PROJECT_DIR$/cf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cf2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dishes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knock_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knock_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis_dryer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis_dryer2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis_washer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dishes.py" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch15 and related files">
+      <change afterPath="$PROJECT_DIR$/ch16.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcintyre.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setting.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -51,30 +43,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.cf2.executor": "Run",
-    "Python.convert_image.executor": "Run",
-    "Python.dishes.executor": "Run",
-    "Python.knock_client.executor": "Run",
-    "Python.knock_server.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mp.executor": "Run",
-    "Python.thread1.executor": "Run",
-    "Python.thread_dishes.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/bob/PycharmProjects/introduce-python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.cf2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dishes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knock_client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knock_server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_dishes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bob/PycharmProjects/introduce-python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.codeium.AppSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -246,7 +238,8 @@
       <updated>1709516841659</updated>
       <workItem from="1709516843538" duration="18100000" />
       <workItem from="1709545792909" duration="55831000" />
-      <workItem from="1709715933022" duration="1567000" />
+      <workItem from="1709715933022" duration="1808000" />
+      <workItem from="1709717757079" duration="3671000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -368,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709709114867</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add ch15 and related files">
+      <option name="closed" value="true" />
+      <created>1709717621572</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709717621572</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +402,8 @@
     <MESSAGE value="add ch13" />
     <MESSAGE value="update ch13" />
     <MESSAGE value="add ch14 and related files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch14 and related files" />
+    <MESSAGE value="add ch15 and related files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch15 and related files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
