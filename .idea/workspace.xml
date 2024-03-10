@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch15 and related files">
-      <change afterPath="$PROJECT_DIR$/ch17.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonrpc_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonrpc_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis_pub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlrpc_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlrpc_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zmq_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zmq_pub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zmq_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zmq_sub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch17 and related files">
+      <change afterPath="$PROJECT_DIR$/flask1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask3a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask3b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask3c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iamovies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flask2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flask3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch18.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch18.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +26,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -58,38 +64,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.cf2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.convert_image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dishes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.knock_client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.knock_server.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.thread1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.thread_dishes.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bob/PycharmProjects/introduce-python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.cf2.executor": "Run",
+    "Python.convert_image.executor": "Run",
+    "Python.dishes.executor": "Run",
+    "Python.knock_client.executor": "Run",
+    "Python.knock_server.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mp.executor": "Run",
+    "Python.thread1.executor": "Run",
+    "Python.thread_dishes.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/bob/PycharmProjects/introduce-python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.knock_client">
-    <configuration name="cf2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.iamovies">
+    <configuration name="iamovies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduce-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,8 +109,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf2.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iamovies.py" />
+      <option name="PARAMETERS" value="apple" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -221,13 +228,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.iamovies" />
+      <item itemvalue="Python.knock_client" />
+      <item itemvalue="Python.knock_server" />
+      <item itemvalue="Python.thread1" />
+      <item itemvalue="Python.thread_dishes" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.knock_client" />
-        <item itemvalue="Python.knock_server" />
-        <item itemvalue="Python.cf2" />
+        <item itemvalue="Python.iamovies" />
         <item itemvalue="Python.thread_dishes" />
         <item itemvalue="Python.thread1" />
+        <item itemvalue="Python.knock_server" />
+        <item itemvalue="Python.knock_client" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +268,8 @@
       <workItem from="1709964447775" duration="1278000" />
       <workItem from="1709965744949" duration="5724000" />
       <workItem from="1709971492948" duration="2320000" />
-      <workItem from="1709973822145" duration="325000" />
+      <workItem from="1709973822145" duration="3720000" />
+      <workItem from="1710050038621" duration="4617000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -383,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709717621572</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add ch17 and related files">
+      <created>1709975682269</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709975682269</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +440,8 @@
     <MESSAGE value="update ch13" />
     <MESSAGE value="add ch14 and related files" />
     <MESSAGE value="add ch15 and related files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch15 and related files" />
+    <MESSAGE value="add ch17 and related files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch17 and related files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,6 +458,7 @@
     <SUITE FILE_PATH="coverage/introduce_python$main.coverage" NAME="main Coverage Results" MODIFIED="1709708869341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$thread1.coverage" NAME="thread1 Coverage Results" MODIFIED="1709711616879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$convert_image.coverage" NAME="convert_image Coverage Results" MODIFIED="1709708872503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$iamovies.coverage" NAME="iamovies Coverage Results" MODIFIED="1710054457492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$cf2.coverage" NAME="cf2 Coverage Results" MODIFIED="1709713289917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$knock_client.coverage" NAME="knock_client Coverage Results" MODIFIED="1709715028431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$dishes.coverage" NAME="dishes Coverage Results" MODIFIED="1709711413606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
