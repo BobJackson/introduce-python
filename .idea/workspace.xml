@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch17 and related files">
-      <change afterPath="$PROJECT_DIR$/flask1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask3a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask3b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask3c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iamovies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/flask2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/flask3.html" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="fixed failed test case">
+      <change afterPath="$PROJECT_DIR$/cap2.py" afterDir="false" />
+    </list>
+    <list id="fdf0b8e4-7f67-419b-bfd0-2540c8371427" name="local" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch18.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch18.ipynb" afterDir="false" />
     </list>
@@ -67,6 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests in test_cap.py.executor": "Run",
     "Python.cf2.executor": "Run",
     "Python.convert_image.executor": "Run",
     "Python.dishes.executor": "Run",
@@ -406,7 +401,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709975682269</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add related files for ch19">
+      <option name="closed" value="true" />
+      <created>1710133249509</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710133249509</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add test case for apostrophe">
+      <option name="closed" value="true" />
+      <created>1710133385884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710133385884</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixed failed test case">
+      <option name="closed" value="true" />
+      <created>1710133438976</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710133438976</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +460,10 @@
     <MESSAGE value="add ch14 and related files" />
     <MESSAGE value="add ch15 and related files" />
     <MESSAGE value="add ch17 and related files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch17 and related files" />
+    <MESSAGE value="add related files for ch19" />
+    <MESSAGE value="add test case for apostrophe" />
+    <MESSAGE value="fixed failed test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed failed test case" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,14 +478,15 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/introduce_python$main.coverage" NAME="main Coverage Results" MODIFIED="1709708869341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/introduce_python$thread1.coverage" NAME="thread1 Coverage Results" MODIFIED="1709711616879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/introduce_python$convert_image.coverage" NAME="convert_image Coverage Results" MODIFIED="1709708872503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/introduce_python$iamovies.coverage" NAME="iamovies Coverage Results" MODIFIED="1710054457492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/introduce_python$cf2.coverage" NAME="cf2 Coverage Results" MODIFIED="1709713289917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$knock_client.coverage" NAME="knock_client Coverage Results" MODIFIED="1709715028431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$dishes.coverage" NAME="dishes Coverage Results" MODIFIED="1709711413606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/introduce_python$thread_dishes.coverage" NAME="thread_dishes Coverage Results" MODIFIED="1709711856501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$thread1.coverage" NAME="thread1 Coverage Results" MODIFIED="1709711616879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$.coverage" NAME=" Coverage Results" MODIFIED="1710133174888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$knock_server.coverage" NAME="knock_server Coverage Results" MODIFIED="1709715018417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$convert_image.coverage" NAME="convert_image Coverage Results" MODIFIED="1709708872503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$thread_dishes.coverage" NAME="thread_dishes Coverage Results" MODIFIED="1709711856501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$cf2.coverage" NAME="cf2 Coverage Results" MODIFIED="1709713289917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$mp.coverage" NAME="mp Coverage Results" MODIFIED="1709710151081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$iamovies.coverage" NAME="iamovies Coverage Results" MODIFIED="1710133153026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
