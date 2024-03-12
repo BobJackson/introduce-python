@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="fixed failed test case">
-      <change afterPath="$PROJECT_DIR$/cap2.py" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add cap2">
+      <change afterPath="$PROJECT_DIR$/dump.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cap_nose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/introduce-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/introduce-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="fdf0b8e4-7f67-419b-bfd0-2540c8371427" name="local" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch18.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch18.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -44,6 +47,48 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="6" end1="8" start2="6" end2="9" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="11" end1="12" start2="12" end2="12" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="21" end1="22" start2="21" end2="21" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="24" end1="24" start2="23" end2="24" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="63" end1="63" start2="63" end2="64" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="67" end1="67" start2="68" end2="69" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="83" end1="84" start2="85" end2="86" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="92" end1="93" start2="94" end2="95" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="95" end1="95" start2="97" end2="98" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="115" end1="116" start2="118" end2="119" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="117" end1="117" start2="120" end2="121" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="128" end1="129" start2="132" end2="133" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="137" end1="138" start2="141" end2="142" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="139" end1="139" start2="143" end2="144" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="150" end1="151" start2="155" end2="156" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="159" end1="160" start2="164" end2="165" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="161" end1="161" start2="166" end2="167" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="172" end1="173" start2="178" end2="179" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="181" end1="182" start2="187" end2="188" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="183" end1="183" start2="189" end2="190" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="185" end1="188" start2="192" end2="192" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="194" end1="201" start2="198" end2="201" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="203" end1="204" start2="203" end2="204" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="205" end1="205" start2="205" end2="206" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="207" end1="210" start2="208" end2="208" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="216" end1="223" start2="214" end2="217" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="228" end1="230" start2="222" end2="222" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="232" end1="232" start2="224" end2="226" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="235" end1="235" start2="229" end2="231" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="238" end1="240" start2="234" end2="234" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="261" end1="262" start2="255" end2="256" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="267" end1="267" start2="261" end2="262" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+        <range start1="427" end1="428" start2="422" end2="431" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="461" end1="461" start2="464" end2="465" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="465" end1="466" start2="469" end2="471" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
+        <range start1="483" end1="484" start2="488" end2="489" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -61,10 +106,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests for test_cap_nose.test_words_with_quotes.executor": "Run",
     "Python tests.Python tests in test_cap.py.executor": "Run",
     "Python.cf2.executor": "Run",
     "Python.convert_image.executor": "Run",
     "Python.dishes.executor": "Run",
+    "Python.iamovies.executor": "Run",
     "Python.knock_client.executor": "Run",
     "Python.knock_server.executor": "Run",
     "Python.main.executor": "Run",
@@ -81,7 +128,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -90,9 +137,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.iamovies">
+  <component name="RunManager" selected="Python tests.Python tests for test_cap_nose.test_words_with_quotes">
     <configuration name="iamovies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduce-python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -113,52 +161,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="knock_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="introduce-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knock_client.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="knock_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="introduce-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knock_server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="introduce-python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -181,6 +186,7 @@
     </configuration>
     <configuration name="thread1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduce-python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,6 +209,7 @@
     </configuration>
     <configuration name="thread_dishes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduce-python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,21 +230,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_cap_nose.test_words_with_quotes" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="introduce-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cap_nose.test_words_with_quotes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_cap.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="introduce-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cap.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.iamovies" />
-      <item itemvalue="Python.knock_client" />
-      <item itemvalue="Python.knock_server" />
       <item itemvalue="Python.thread1" />
       <item itemvalue="Python.thread_dishes" />
+      <item itemvalue="Python tests.Python tests for test_cap_nose.test_words_with_quotes" />
+      <item itemvalue="Python tests.Python tests in test_cap.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_cap_nose.test_words_with_quotes" />
+        <item itemvalue="Python tests.Python tests in test_cap.py" />
         <item itemvalue="Python.iamovies" />
         <item itemvalue="Python.thread_dishes" />
         <item itemvalue="Python.thread1" />
-        <item itemvalue="Python.knock_server" />
-        <item itemvalue="Python.knock_client" />
       </list>
     </recent_temporary>
   </component>
@@ -259,12 +298,13 @@
       <workItem from="1709516843538" duration="18100000" />
       <workItem from="1709545792909" duration="55831000" />
       <workItem from="1709715933022" duration="1808000" />
-      <workItem from="1709717757079" duration="3671000" />
+      <workItem from="1709717757079" duration="4285000" />
       <workItem from="1709964447775" duration="1278000" />
       <workItem from="1709965744949" duration="5724000" />
       <workItem from="1709971492948" duration="2320000" />
       <workItem from="1709973822145" duration="3720000" />
       <workItem from="1710050038621" duration="4617000" />
+      <workItem from="1710218202284" duration="4937000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -425,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710133438976</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add cap2">
+      <option name="closed" value="true" />
+      <created>1710133673151</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1710133673151</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,11 +507,13 @@
     <MESSAGE value="update ch13" />
     <MESSAGE value="add ch14 and related files" />
     <MESSAGE value="add ch15 and related files" />
+    <MESSAGE value="add ch16 and related files" />
     <MESSAGE value="add ch17 and related files" />
     <MESSAGE value="add related files for ch19" />
     <MESSAGE value="add test case for apostrophe" />
     <MESSAGE value="fixed failed test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed failed test case" />
+    <MESSAGE value="add cap2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cap2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -481,7 +531,7 @@
     <SUITE FILE_PATH="coverage/introduce_python$knock_client.coverage" NAME="knock_client Coverage Results" MODIFIED="1709715028431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$dishes.coverage" NAME="dishes Coverage Results" MODIFIED="1709711413606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$thread1.coverage" NAME="thread1 Coverage Results" MODIFIED="1709711616879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/introduce_python$.coverage" NAME=" Coverage Results" MODIFIED="1710133174888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/introduce_python$.coverage" NAME=" Coverage Results" MODIFIED="1710219573566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$knock_server.coverage" NAME="knock_server Coverage Results" MODIFIED="1709715018417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$convert_image.coverage" NAME="convert_image Coverage Results" MODIFIED="1709708872503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/introduce_python$thread_dishes.coverage" NAME="thread_dishes Coverage Results" MODIFIED="1709711856501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
