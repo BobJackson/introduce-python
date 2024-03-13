@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add cap2">
-      <change afterPath="$PROJECT_DIR$/dump.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cap_nose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/introduce-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/introduce-python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="update .idea">
+      <change afterPath="$PROJECT_DIR$/ch20.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="fdf0b8e4-7f67-419b-bfd0-2540c8371427" name="local" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="fdf0b8e4-7f67-419b-bfd0-2540c8371427" name="local" comment="local" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,48 +42,6 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="6" end1="8" start2="6" end2="9" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="11" end1="12" start2="12" end2="12" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="21" end1="22" start2="21" end2="21" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="24" end1="24" start2="23" end2="24" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="63" end1="63" start2="63" end2="64" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="67" end1="67" start2="68" end2="69" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="83" end1="84" start2="85" end2="86" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="92" end1="93" start2="94" end2="95" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="95" end1="95" start2="97" end2="98" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="115" end1="116" start2="118" end2="119" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="117" end1="117" start2="120" end2="121" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="128" end1="129" start2="132" end2="133" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="137" end1="138" start2="141" end2="142" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="139" end1="139" start2="143" end2="144" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="150" end1="151" start2="155" end2="156" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="159" end1="160" start2="164" end2="165" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="161" end1="161" start2="166" end2="167" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="172" end1="173" start2="178" end2="179" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="181" end1="182" start2="187" end2="188" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="183" end1="183" start2="189" end2="190" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="185" end1="188" start2="192" end2="192" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="194" end1="201" start2="198" end2="201" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="203" end1="204" start2="203" end2="204" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="205" end1="205" start2="205" end2="206" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="207" end1="210" start2="208" end2="208" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="216" end1="223" start2="214" end2="217" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="228" end1="230" start2="222" end2="222" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="232" end1="232" start2="224" end2="226" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="235" end1="235" start2="229" end2="231" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="238" end1="240" start2="234" end2="234" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="261" end1="262" start2="255" end2="256" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="267" end1="267" start2="261" end2="262" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-        <range start1="427" end1="428" start2="422" end2="431" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="461" end1="461" start2="464" end2="465" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="465" end1="466" start2="469" end2="471" changelist="fdf0b8e4-7f67-419b-bfd0-2540c8371427" />
-        <range start1="483" end1="484" start2="488" end2="489" changelist="9d63b628-cf60-4acb-97a7-d528449fb74e" />
-      </ranges>
-    </file>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -103,35 +56,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.Python tests for test_cap_nose.test_words_with_quotes.executor": "Run",
-    "Python tests.Python tests in test_cap.py.executor": "Run",
-    "Python.cf2.executor": "Run",
-    "Python.convert_image.executor": "Run",
-    "Python.dishes.executor": "Run",
-    "Python.iamovies.executor": "Run",
-    "Python.knock_client.executor": "Run",
-    "Python.knock_server.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mp.executor": "Run",
-    "Python.thread1.executor": "Run",
-    "Python.thread_dishes.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/bob/PycharmProjects/introduce-python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests for test_cap_nose.test_words_with_quotes.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_cap.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dishes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iamovies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knock_client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knock_server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread_dishes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bob/PycharmProjects/introduce-python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -304,7 +257,8 @@
       <workItem from="1709971492948" duration="2320000" />
       <workItem from="1709973822145" duration="3720000" />
       <workItem from="1710050038621" duration="4617000" />
-      <workItem from="1710218202284" duration="4937000" />
+      <workItem from="1710218202284" duration="5149000" />
+      <workItem from="1710305249553" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -473,7 +427,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710133673151</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add ch19">
+      <option name="closed" value="true" />
+      <created>1710223164366</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710223164366</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update gitignore">
+      <option name="closed" value="true" />
+      <created>1710223235191</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710223235191</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update .idea">
+      <option name="closed" value="true" />
+      <created>1710223281096</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710223281096</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
     <MESSAGE value="add ch02" />
     <MESSAGE value="add ch03" />
     <MESSAGE value="add ch04" />
@@ -513,7 +490,11 @@
     <MESSAGE value="add test case for apostrophe" />
     <MESSAGE value="fixed failed test case" />
     <MESSAGE value="add cap2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cap2" />
+    <MESSAGE value="add ch19" />
+    <MESSAGE value="update gitignore" />
+    <MESSAGE value="local" />
+    <MESSAGE value="update .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="update .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
