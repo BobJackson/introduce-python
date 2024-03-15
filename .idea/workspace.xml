@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="update .idea">
-      <change afterPath="$PROJECT_DIR$/ch20.ipynb" afterDir="false" />
+    <list default="true" id="9d63b628-cf60-4acb-97a7-d528449fb74e" name="Changes" comment="add ch20">
+      <change afterPath="$PROJECT_DIR$/ch20_critter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch20_stache.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch20.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch20.ipynb" afterDir="false" />
     </list>
     <list id="fdf0b8e4-7f67-419b-bfd0-2540c8371427" name="local" comment="local" />
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +260,9 @@
       <workItem from="1709973822145" duration="3720000" />
       <workItem from="1710050038621" duration="4617000" />
       <workItem from="1710218202284" duration="5149000" />
-      <workItem from="1710305249553" duration="927000" />
+      <workItem from="1710305249553" duration="1009000" />
+      <workItem from="1710326693825" duration="890000" />
+      <workItem from="1710477439744" duration="1337000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -451,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710223281096</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add ch20">
+      <option name="closed" value="true" />
+      <created>1710306706770</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710306706770</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ch02" />
     <MESSAGE value="add ch03" />
     <MESSAGE value="add ch04" />
     <MESSAGE value="add ch05" />
@@ -494,7 +505,8 @@
     <MESSAGE value="update gitignore" />
     <MESSAGE value="local" />
     <MESSAGE value="update .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="update .idea" />
+    <MESSAGE value="add ch20" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
